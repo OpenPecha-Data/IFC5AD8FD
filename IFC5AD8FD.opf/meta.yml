@@ -1,0 +1,23 @@
+id: IFC5AD8FD
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-GR-18
+  title: ༄༅། །མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པའི་རྣམ་བཤད་སྙོམས་འཇུག་རབ་གསལ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  authors: &id001
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-18
+  cover: IBA-GR-18.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པའི་རྣམ་བཤད་སྙོམས་འཇུག་རབ་གསལ་བཞུགས་སོ།།
+  authors: *id001
+  sku: IBA-GR-18
+  cover: IBA-GR-18.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
